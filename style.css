@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+
+}
+h1{
+    text-decoration: underline;
+    color: cyan;
+}
+h2{
+    text-decoration: wavy;
+    color: cyan;
+}
